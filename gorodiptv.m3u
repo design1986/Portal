@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:0 group-title="Новости",Первый канал
+http://gorod.tv/s/live/1/109.254.131.17/1574490288555/0.m3u8
+#EXTINF:0 group-title="Новости",Россия 1
+http://gorod.tv/s/live/2/109.254.131.17/1574490288555/0.m3u8
+#EXTINF:0 group-title="Спорт",Матч ТВ
+http://gorod.tv/s/live/3/109.254.131.17/1574490288555/0.m3u8
+#EXTINF:0 group-title="Региональные",НТВ
+http://gorod.tv/s/live/4/109.254.131.17/1574490288555/0.m3u8
+#EXTINF:0 group-title="Кино и Сериалы",Пятый канал
+http://gorod.tv/s/live/5/109.254.131.17/1574490288555/0.m3u8
+#EXTINF:0 group-title="История и Наука",Россия К
+http://gorod.tv/s/live/6/109.254.131.17/1574490288555/0.m3u8
+#EXTINF:0 group-title="Новости",Россия 24
+http://gorod.tv/s/live/7/109.254.131.17/1574490288555/0.m3u8
+#EXTINF:0 group-title="Детские",Карусель
+http://gorod.tv/s/live/8/109.254.131.17/1574490288555/0.m3u8
+#EXTINF:0 group-title="Региональные",ОТР
+http://gorod.tv/s/live/9/109.254.131.17/1574490288555/0.m3u8
+#EXTINF:0 group-title="Региональные",ТВ Центр
+http://gorod.tv/s/live/10/109.254.131.17/1574490288555/0.m3u8
+#EXTINF:0 group-title="Кино и Сериалы",РЕН ТВ
+http://gorod.tv/s/live/11/109.254.131.17/1574490288555/0.m3u8
+#EXTINF:0 group-title="Религия",Спас
+http://gorod.tv/s/live/12/109.254.131.17/1574490288555/0.m3u8
+#EXTINF:0 group-title="Развлекательные",СТС
+http://gorod.tv/s/live/13/109.254.131.17/1574490288555/0.m3u8
+#EXTINF:0 group-title="Кино и Сериалы",Домашний
+http://gorod.tv/s/live/14/109.254.131.17/1574490288555/0.m3u8
+#EXTINF:0 group-title="Беларусь",ТВ-3
+http://gorod.tv/s/live/15/109.254.131.17/1574490288555/0.m3u8
+#EXTINF:0 group-title="Развлекательные",Пятница!
+http://gorod.tv/s/live/16/109.254.131.17/1574490288555/0.m3u8
+#EXTINF:0 group-title="Кино и Сериалы",Звезда
+http://gorod.tv/s/live/17/109.254.131.17/1574490288555/0.m3u8
+#EXTINF:0 group-title="Кино и Сериалы",МИР
+http://gorod.tv/s/live/18/109.254.131.17/1574490288555/0.m3u8
+#EXTINF:0 group-title="Развлекательные",ТНТ
+http://gorod.tv/s/live/19/109.254.131.17/1574490288555/0.m3u8
+#EXTINF:0 group-title="Музыкальные",МУЗ-ТВ
+http://gorod.tv/s/live/20/109.254.131.17/1574490288555/0.m3u8
+#EXTINF:0 group-title="Новости",Санкт-Петербург
+http://gorod.tv/s/live/21/109.254.131.17/1574490288555/0.m3u8
+#EXTINF:0 group-title="Новости",78
+http://gorod.tv/s/live/22/109.254.131.17/1574490288555/0.m3u8
+#EXTINF:0 group-title="Региональные",Лен ТВ
+http://gorod.tv/s/live/23/109.254.131.17/1574490288555/0.m3u8

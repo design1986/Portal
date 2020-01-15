@@ -1,0 +1,1189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+    <typeList>start</typeList>
+    <background-image>
+        <![CDATA[http://portal.kl.com.ua/portal.jpg]]>
+    </background-image>
+    <playlist_limits>no_save_playlist,no_step,no_save_fav,sort_ch</playlist_limits>
+    <all_logo_30x30>http://portal.kl.com.ua/portal.gif</all_logo_30x30>
+	<title><![CDATA[Portal]]></title>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/portal.gif]]>
+    </icon>
+</options>
+
+<items>
+
+<channel>
+    <title>
+        <![CDATA[Spider]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://spiderxml.com/spidericon.png]]>
+    </logo_30x30>
+	<playlist_url>
+		<![CDATA[http://spiderxml.com/top]]>
+	</playlist_url>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[Smarttvapp free]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://portal.kl.com.ua/iptv.png]]>
+    </logo_30x30>
+
+    <playlist_url>
+        <![CDATA[https://smarttvapp.ru/app/iptvfree.m3u]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/iptv.png]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[Smarttvapp auto]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://portal.kl.com.ua/iptv.png]]>
+    </logo_30x30>
+
+    <playlist_url>
+        <![CDATA[https://smarttvapp.ru/app/iptv-auto.m3u]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/iptv.png]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[IPTV плейлист]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://portal.kl.com.ua/iptv.png]]>
+    </logo_30x30>
+
+    <playlist_url>
+        <![CDATA[https://dl.dropbox.com/s/bjikial5c6gwqz0/tv.m3u]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/iptv.png]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[Webarmen]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://portal.kl.com.ua/iptv.png]]>
+    </logo_30x30>
+
+    <playlist_url>
+        <![CDATA[https://webarmen.com/my/iptv/auto.all.m3u]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/iptv.png]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[Webarmen Q]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://portal.kl.com.ua/iptv.png]]>
+    </logo_30x30>
+
+    <playlist_url>
+        <![CDATA[https://webarmen.com/my/iptv/auto.nogrp.q.m3u]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/iptv.png]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[Webhalpme IPTV]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://portal.kl.com.ua/iptv.png]]>
+    </logo_30x30>
+
+    <playlist_url>
+        <![CDATA[https://webhalpme.ru/if.m3u]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/iptv.png]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[STADION]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://portal.kl.com.ua/iptv.png]]>
+    </logo_30x30>
+
+    <playlist_url>
+        <![CDATA[http://dl.dropbox.com/s/mvgo3uwr72nrcta/STADION.m3u]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/iptv.png]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[PL TorrentTV]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://portal.kl.com.ua/iptv.png]]>
+    </logo_30x30>
+
+    <playlist_url>
+        <![CDATA[http://5.9.84.209:8081/torrenttv]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/iptv.png]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[PL Peers]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://portal.kl.com.ua/iptv.png]]>
+    </logo_30x30>
+
+    <playlist_url>
+        <![CDATA[http://free-iptv.ru/iptv/0703tppz/pl_peers.m3u]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/iptv.png]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[PL Lime]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://portal.kl.com.ua/iptv.png]]>
+    </logo_30x30>
+
+    <playlist_url>
+        <![CDATA[http://free-iptv.ru/iptv/0703tppz/pl_lime.m3u]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/iptv.png]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[PL Zabava]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://portal.kl.com.ua/iptv.png]]>
+    </logo_30x30>
+
+    <playlist_url>
+        <![CDATA[http://free-iptv.ru/iptv/0703tppz/pl_zabava.m3u]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/iptv.png]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[IPTV USB]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://portal.kl.com.ua/iptv.png]]>
+    </logo_30x30>
+
+    <playlist_url>
+        <![CDATA[https://ipusb.ucoz.net/iptvusb.m3u]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/iptv.png]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[ON TV]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://portal.kl.com.ua/iptv.png]]>
+    </logo_30x30>
+
+    <playlist_url>
+        <![CDATA[http://ontv.ml/playlist/ontv.ml.m3u]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/iptv.png]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[Ekzot IPTV]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://portal.kl.com.ua/iptv.png]]>
+    </logo_30x30>
+
+    <playlist_url>
+        <![CDATA[http://ekzot.ucoz.net/m3u/select.m3u]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/iptv.png]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[Футбол]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://portal.kl.com.ua/iptv.png]]>
+    </logo_30x30>
+
+    <playlist_url>
+        <![CDATA[http://ekzot.ucoz.net/m3u/futbol.m3u]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/iptv.png]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[Realist TV]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://portal.kl.com.ua/iptv.png]]>
+    </logo_30x30>
+
+    <playlist_url>
+        <![CDATA[http://realist.zzz.com.ua/realisttv.m3u]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/iptv.png]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[Zigfreed]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://portal.kl.com.ua/iptv.png]]>
+    </logo_30x30>
+
+    <playlist_url>
+        <![CDATA[http://zigfreed.cc.ua/2020/zigfreed.m3u]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/iptv.png]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[IPTV HD]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://portal.kl.com.ua/iptv.png]]>
+    </logo_30x30>
+
+    <playlist_url>
+        <![CDATA[https://iptvm3u.ru/iptvhd.m3u]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/iptv.png]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[Q IPTV]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://portal.kl.com.ua/iptv.png]]>
+    </logo_30x30>
+
+    <playlist_url>
+        <![CDATA[http://q-vision.com.ua/spysky/qiptv.m3u]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/iptv.png]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[Спорт]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://portal.kl.com.ua/iptv.png]]>
+    </logo_30x30>
+
+    <playlist_url>
+        <![CDATA[https://pastebin.com/raw/Y0fu1BCZ]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/iptv.png]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[12 IPTV]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://portal.kl.com.ua/iptv.png]]>
+    </logo_30x30>
+    <playlist_url>
+        <![CDATA[https:/12iptv.ucoz.net/_ld/0/1_10iptv.m3u]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/iptv.png]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[Nstream TV]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://portal.kl.com.ua/iptv.png]]>
+    </logo_30x30>
+    <playlist_url>
+        <![CDATA[http://nstreamevo.kumuki.ru.com/4254/iptv.by.start.xml]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/iptv.png]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[Karnei4]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[https://vgif.ru/gifs/154/vgif-ru-24627.gif]]>
+    </logo_30x30>
+    <playlist_url>
+        <![CDATA[https://bit.do/karnei4]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[https://vgif.ru/gifs/154/vgif-ru-24627.gif]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[SlyNet.pw IPTV]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[https://sun1-94.userapi.com/c627221/v627221722/328ee/vTcfPCCf0MQ.jpg]]>
+    </logo_30x30>
+
+    <playlist_url>
+        <![CDATA[https://pastebin.com/raw/TV3nbexd]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[https://sun1-94.userapi.com/c627221/v627221722/328ee/vTcfPCCf0MQ.jpg]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[ONE IPTV]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[https://i0.wp.com/iptvm3u.ru/wp-content/uploads/2018/02/cropped-logo-1.png]]>
+    </logo_30x30>
+
+    <playlist_url>
+        <![CDATA[http://iptvm3u.ru/one.m3u]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[https://i0.wp.com/iptvm3u.ru/wp-content/uploads/2018/02/cropped-logo-1.png]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[Great Crabs IPTV]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[https://sun1-83.userapi.com/c854532/v854532693/99132/8T-HDcxvQdY.jpg]]>
+    </logo_30x30>
+
+    <playlist_url>
+        <![CDATA[http://iptv2020.ucoz.net/Free.m3u]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[https://sun1-83.userapi.com/c854532/v854532693/99132/8T-HDcxvQdY.jpg]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[LNKA parsers]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://portal.kl.com.ua/lnka.jpg]]>
+    </logo_30x30>
+
+    <playlist_url>
+        <![CDATA[http://p.lnka.ru/]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/lnka.jpg]]>
+    </icon>
+</channel>
+<channel>
+    <title>
+        <![CDATA[Город IPTV]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://portal.kl.com.ua/gorod.jpg]]>
+    </logo_30x30>
+    <playlist_url>
+        <![CDATA[http://portal.kl.com.ua/gorodiptv.m3u]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/gorod.jpg]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[CoolTV]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://cooltv.info/img/tvcool23.jpg]]>
+    </logo_30x30>
+
+    <playlist_url>
+        <![CDATA[http://cooltv.info/start]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://cooltv.info/img/tvcool23.jpg]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[Filmix]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://portal.kl.com.ua/filmix.png]]>
+    </logo_30x30>
+
+    <playlist_url>
+        <![CDATA[https://filmix.red/fork/movies#.XML]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/filmix.png]]>
+    </icon>
+</channel>
+<channel>
+    <title>
+        <![CDATA[Fork-portal]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://portal.kl.com.ua/fork-portal.jpg]]>
+    </logo_30x30>
+
+    <playlist_url>
+        <![CDATA[http://fork-portal.ru]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/fork-portal.jpg]]>
+    </icon>
+</channel>
+<channel>
+    <title>
+        <![CDATA[KinoBOOM]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://portal.kl.com.ua/kb.jpg]]>
+    </logo_30x30>
+
+    <playlist_url>
+        <![CDATA[http://kb-team.club]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/kb.jpg]]>
+    </icon>
+</channel>
+<channel>
+    <title>
+        <![CDATA[ИмперияBOOM]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://imboom.ru/images/im.png]]>
+    </logo_30x30>
+
+    <playlist_url>
+        <![CDATA[http://imboom.ru/]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://imboom.ru/images/im.png]]>
+    </icon>
+</channel>
+<channel>
+    <title>
+        <![CDATA[NEWTV]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://fxml.newtv.su/include/templates/images/logo newtv.png]]>
+    </logo_30x30>
+
+    <playlist_url>
+        <![CDATA[http://fxml.newtv.su]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://fxml.newtv.su/include/templates/images/logo newtv.png]]>
+    </icon>
+</channel>
+<channel>
+    <title>
+        <![CDATA[Kodik]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://cdn.nserv.host/logo/kodik.png]]>
+    </logo_30x30>
+
+    <playlist_url>
+        <![CDATA[http://nserv.host:5300/kodik/list]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://cdn.nserv.host/logo/kodik.png]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[Kinogo]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://cdn.nserv.host/logo/kinogo.png]]>
+    </logo_30x30>
+
+    <playlist_url>
+        <![CDATA[http://nserv.host:5300/kinogo]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://cdn.nserv.host/logo/kinogo.png]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[KinoBase]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://cdn.nserv.host/logo/kinobase.png]]>
+    </logo_30x30>
+
+    <playlist_url>
+        <![CDATA[http://nserv.host:5300/kinobase]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://cdn.nserv.host/logo/kinobase.png]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[Namba]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://cdn.nserv.host/logo/namba.png]]>
+    </logo_30x30>
+
+    <playlist_url>
+        <![CDATA[http://nserv.host:5300/namba]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://cdn.nserv.host/logo/namba.png]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[KinoVHD]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://cdn.nserv.host/logo/kinovhd.png]]>
+    </logo_30x30>
+
+    <playlist_url>
+        <![CDATA[http://nserv.host:5300/kinovhd]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://cdn.nserv.host/logo/kinovhd.png]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[HDRezka]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://cdn.nserv.host/logo/hdrezka.png]]>
+    </logo_30x30>
+
+    <playlist_url>
+        <![CDATA[http://nserv.host:5300/rezka]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://cdn.nserv.host/logo/hdrezka.png]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[Kino-Live]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://cdn.nserv.host/logo/kinolive.png]]>
+    </logo_30x30>
+
+    <playlist_url>
+        <![CDATA[http://nserv.host:5300/kinolive]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://cdn.nserv.host/logo/kinolive.png]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[KinoFeed]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://cdn.nserv.host/logo/kinofeed.png]]>
+    </logo_30x30>
+
+    <playlist_url>
+        <![CDATA[http://nserv.host:5300/kinofeed/list]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://cdn.nserv.host/logo/kinofeed.png]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[Seasonvar]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://cdn.nserv.host/logo/seasonvar.png]]>
+    </logo_30x30>
+
+    <playlist_url>
+        <![CDATA[http://nserv.host:5300/seasonvar]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://cdn.nserv.host/logo/seasonvar.png]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[Collaps]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://cdn.nserv.host/logo/collaps.png]]>
+    </logo_30x30>
+
+    <playlist_url>
+        <![CDATA[http://nserv.host:5300/collaps]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://cdn.nserv.host/logo/collaps.png]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[Торренты]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://cdn.nserv.host/logo/ace.png]]>
+    </logo_30x30>
+
+    <playlist_url>
+        <![CDATA[http://nserv.host:5300?cat=ace]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://cdn.nserv.host/logo/ace.png]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[18+]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://cdn.nserv.host/logo/18.png]]>
+    </logo_30x30>
+    <playlist_url>
+        <![CDATA[http://nserv.host:5300?cat=porn]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://cdn.nserv.host/logo/18.png]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[UHD]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://cdn.nserv.host/img/uhd.png]]>
+    </logo_30x30>
+    <playlist_url>
+        <![CDATA[http://nserv.host:5300/kinofeed/list?uhd=true]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://cdn.nserv.host/img/uhd.png]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[AceStream]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://51.15.17.204/obovse.ru/smarttv/img/ace_stream.png]]>
+    </logo_30x30>
+
+	<playlist_url>
+		<![CDATA[http://p.lnka.ru/torrentsites/?as=]]>
+	</playlist_url>
+	<icon>
+		<![CDATA[http://51.15.17.204/obovse.ru/smarttv/img/ace_stream.png]]>
+	</icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[МультФильмы]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://portal.kl.com.ua/MULT.png]]>
+    </logo_30x30>
+    <playlist_url>
+        <![CDATA[http://portal.kl.com.ua/mult.m3u]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/MULT.png]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[Nstreamevo]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://46.36.220.208/common/img/natgeo.png]]>
+    </logo_30x30>
+    <playlist_url>
+        <![CDATA[http://nstreamevo.kumuki.ru.com/gronik]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://46.36.220.208/common/img/natgeo.png]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[OTTV]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://ottv.tk/public/media/logo-light.png]]>
+    </logo_30x30>
+    <playlist_url>
+        <![CDATA[http://ottv.tk/public/plst/plstfb/playlist.php?ott]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://ottv.tk/public/media/logo-light.png]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[TUSHKAN]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://smartportaltv.ru/kinopars/tush.png]]>
+    </logo_30x30>
+    <playlist_url>
+        <![CDATA[http://smartportaltv.ru/kinopars/tush14.xml]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://smartportaltv.ru/kinopars/tush.png]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[IVI]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://51.15.17.204/obovse.ru/smarttv/img/ivi.png]]>
+    </logo_30x30>
+    <playlist_url>
+        <![CDATA[http://6014.ucoz.ru/play/ivi.xml]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://51.15.17.204/obovse.ru/smarttv/img/ivi.png]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[TV.RUTV]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[https://ru.tv/_nuxt/img/logo.b1743f9.svg]]>
+    </logo_30x30>
+    <playlist_url>
+        <![CDATA[html://http://tv.rutv.ru]]>
+    </playlist_url>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[Dstore]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://dstore.lh1.in/picsys/dstore.jpg]]>
+    </logo_30x30>
+    <playlist_url>
+        <![CDATA[html://http://f0227471.xsph.ru/tv/dkino2/index.php]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://dstore.lh1.in/picsys/dstore.jpg]]>
+    </icon>
+</channel>
+<channel>
+    <title>
+        <![CDATA[Ottplayer]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[https://ottplayer.es/public/images/logo_temp.svg]]>
+    </logo_30x30>
+    <playlist_url>
+        <![CDATA[html://http://widget.ottplayer.es/test]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[https://ottplayer.es/public/images/logo_temp.svg]]>
+    </icon>
+</channel>
+<channel>
+    <title>
+        <![CDATA[Yohoho]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://195.88.208.101/obovse.ru/smarttv/img/yoho.png?ndate191030_]]>
+    </logo_30x30>
+
+    <playlist_url>
+        <![CDATA[https://yohoho.cc/]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[http://195.88.208.101/obovse.ru/smarttv/img/yoho.png?ndate191030_]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[Youtube]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1280px-YouTube_full-color_icon_%282017%29.svg.png]]>
+    </logo_30x30>
+
+    <playlist_url>
+        <![CDATA[http://youtube.com/]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1280px-YouTube_full-color_icon_%282017%29.svg.png]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[Vkontakte]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/1200px-VK.com-logo.svg.png]]>
+    </logo_30x30>
+
+    <playlist_url>
+        <![CDATA[vk://enter]]>
+    </playlist_url>
+    <icon>
+        <![CDATA[https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/1200px-VK.com-logo.svg.png]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[Кинозал Akudji HD]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://portal.kl.com.ua/kinozal.png]]>
+    </logo_30x30>
+
+    <stream_url>
+        <![CDATA[http://stream1.cybergame.tv:8080/live/akudjio.m3u8]]>
+    </stream_url>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/kinozal.png]]>
+    </icon>
+</channel>
+<channel>
+    <title>
+        <![CDATA[Кинозал FILM TV]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://portal.kl.com.ua/kinozal.png]]>
+    </logo_30x30>
+
+    <stream_url>
+        <![CDATA[http://195.9.195.3:8080/manifest/165462_master.m3u8]]>
+    </stream_url>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/kinozal.png]]>
+    </icon>
+</channel>
+<channel>
+    <title>
+        <![CDATA[Кинозал Evgen Ужасы]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://portal.kl.com.ua/kinozal.png]]>
+    </logo_30x30>
+
+    <stream_url>
+        <![CDATA[https://v2.catcast.me/content/36277/index.m3u8]]>
+    </stream_url>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/kinozal.png]]>
+    </icon>
+</channel>
+<channel>
+    <title>
+        <![CDATA[Кинозал VHS Evgen]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://portal.kl.com.ua/kinozal.png]]>
+    </logo_30x30>
+
+    <stream_url>
+        <![CDATA[http://v2.catcast.me/content/36251/index.m3u8]]>
+    </stream_url>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/kinozal.png]]>
+    </icon>
+</channel>
+<channel>
+    <title>
+        <![CDATA[Кинозал MarsTV VHS]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://portal.kl.com.ua/kinozal.png]]>
+    </logo_30x30>
+
+    <stream_url>
+        <![CDATA[hhttp://v2.catcast.me/content/37033/index.m3u8]]>
+    </stream_url>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/kinozal.png]]>
+    </icon>
+</channel>
+<channel>
+    <title>
+        <![CDATA[Кинозал СССР Evgen]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://portal.kl.com.ua/kinozal.png]]>
+    </logo_30x30>
+
+    <stream_url>
+        <![CDATA[https://v2.catcast.me/content/36506/index.m3u8]]>
+    </stream_url>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/kinozal.png]]>
+    </icon>
+</channel>
+<channel>
+    <title>
+        <![CDATA[Кинозал Кинопоказ 2]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://portal.kl.com.ua/kinozal.png]]>
+    </logo_30x30>
+
+    <stream_url>
+        <![CDATA[http://autopilot.myowntv.org/content/35448/index.m3u8]]>
+    </stream_url>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/kinozal.png]]>
+    </icon>
+</channel>
+
+<channel>
+    <title>
+        <![CDATA[КИНОПАБ Хит!]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://portal.kl.com.ua/kinopub.png]]>
+    </logo_30x30>
+
+    <stream_url>
+        <![CDATA[https://edge-contell-01.mycdn.video/pub/hit/index.m3u8]]>
+    </stream_url>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/kinopub.png]]>
+    </icon>
+</channel>
+<channel>
+    <title>
+        <![CDATA[КИНОПАБ VHS!]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://portal.kl.com.ua/kinopub.png]]>
+    </logo_30x30>
+
+    <stream_url>
+        <![CDATA[https://edge-contell-01.mycdn.video/pub/vhs/index.m3u8]]>
+    </stream_url>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/kinopub.png]]>
+    </icon>
+</channel>
+<channel>
+    <title>
+        <![CDATA[КИНОПАБ UHD 4K!]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://portal.kl.com.ua/kinopub.png]]>
+    </logo_30x30>
+
+    <stream_url>
+        <![CDATA[https://edge-contell-01.mycdn.video/pub/4k/index.m3u8]]>
+    </stream_url>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/kinopub.png]]>
+    </icon>
+</channel>
+<channel>
+    <title>
+        <![CDATA[КИНОПАБ Комедия!]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://portal.kl.com.ua/kinopub.png]]>
+    </logo_30x30>
+
+    <stream_url>
+        <![CDATA[https://edge-contell-01.mycdn.video/pub/comedy/index.m3u8]]>
+    </stream_url>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/kinopub.png]]>
+    </icon>
+</channel>
+<channel>
+    <title>
+        <![CDATA[КИНОПАБ Ужасы!]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://portal.kl.com.ua/kinopub.png]]>
+    </logo_30x30>
+
+    <stream_url>
+        <![CDATA[https://edge-contell-01.mycdn.video/pub/horror/index.m3u8]]>
+    </stream_url>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/kinopub.png]]>
+    </icon>
+</channel>
+<channel>
+    <title>
+        <![CDATA[КИНОПАБ Фантастика!]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://portal.kl.com.ua/kinopub.png]]>
+    </logo_30x30>
+
+    <stream_url>
+        <![CDATA[https://edge-contell-01.mycdn.video/pub/scifi/index.m3u8]]>
+    </stream_url>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/kinopub.png]]>
+    </icon>
+</channel>
+<channel>
+    <title>
+        <![CDATA[КИНОПАБ Футурама!]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://portal.kl.com.ua/kinopub.png]]>
+    </logo_30x30>
+
+    <stream_url>
+        <![CDATA[https://edge-contell-01.mycdn.video/pub/futurama/index.m3u8]]>
+    </stream_url>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/kinopub.png]]>
+    </icon>
+</channel>
+<channel>
+    <title>
+        <![CDATA[КИНОПАБ Секретные материалы!]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://portal.kl.com.ua/kinopub.png]]>
+    </logo_30x30>
+
+    <stream_url>
+        <![CDATA[https://edge-contell-01.mycdn.video/pub/xfiles/index.m3u8]]>
+    </stream_url>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/kinopub.png]]>
+    </icon>
+</channel>
+<channel>
+    <title>
+        <![CDATA[КИНОПАБ Южный Парк!]]>
+    </title>
+    <logo_30x30>
+        <![CDATA[http://portal.kl.com.ua/kinopub.png]]>
+    </logo_30x30>
+
+    <stream_url>
+        <![CDATA[https://edge-contell-01.mycdn.video/pub/southpark/index.m3u8]]>
+    </stream_url>
+    <icon>
+        <![CDATA[http://portal.kl.com.ua/kinopub.png]]>
+    </icon>
+</channel>
+</items>
